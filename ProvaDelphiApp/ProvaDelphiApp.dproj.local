@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/13 11:22:21.000.431,=C:\Users\Lucas Vidal\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/07/12 21:05:14.000.191,=C:\Users\Lucas Vidal\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/07/12 21:05:54.000.591,C:\Users\Lucas Vidal\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\src\View\ProvaDelphiApp.View.Principal.pas</Transaction>
+    <Transaction>2022/07/12 21:05:54.000.591,C:\Users\Lucas Vidal\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\workspace\ProvaDelphi\ProvaDelphiApp\src\View\ProvaDelphiApp.View.Principal.dfm</Transaction>
+    <Transaction>2022/07/12 21:06:11.000.947,C:\Users\Lucas Vidal\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\workspace\ProvaDelphi\ProvaDelphiApp\ProvaDelphiApp.dproj</Transaction>
+    <Transaction>2022/07/12 21:30:51.000.070,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/12 21:31:06.000.655,C:\workspace\ProvaDelphi\ProvaDelphiApp\src\View\ProvaDelphiApp.View.Tarefa1.dfm=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.dfm</Transaction>
+    <Transaction>2022/07/12 21:31:06.000.655,C:\workspace\ProvaDelphi\ProvaDelphiApp\src\View\ProvaDelphiApp.View.Tarefa1.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/12 21:31:41.000.461,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/12 21:32:13.000.069,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/12 21:32:23.000.077,C:\workspace\ProvaDelphi\ProvaDelphiApp\src\View\ProvaDelphiApp.View.Tarefa2.dfm=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.dfm</Transaction>
+    <Transaction>2022/07/12 21:32:23.000.077,C:\workspace\ProvaDelphi\ProvaDelphiApp\src\View\ProvaDelphiApp.View.Tarefa2.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/12 21:32:56.000.103,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/12 21:33:05.000.930,C:\workspace\ProvaDelphi\ProvaDelphiApp\src\View\ProvaDelphiApp.View.Tarefa3.dfm=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.dfm</Transaction>
+    <Transaction>2022/07/12 21:33:05.000.930,C:\workspace\ProvaDelphi\ProvaDelphiApp\src\View\ProvaDelphiApp.View.Tarefa3.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/12 23:04:04.000.298,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/12 23:04:24.000.124,C:\workspace\ProvaDelphi\ProvaDelphiApp\src\View\ProvaDelphiApp.View.Testes.dfm=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.dfm</Transaction>
+    <Transaction>2022/07/12 23:04:24.000.124,C:\workspace\ProvaDelphi\ProvaDelphiApp\src\View\ProvaDelphiApp.View.Testes.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/13 22:25:29.000.418,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/13 22:26:02.000.243,C:\workspace\ProvaDelphi\ProvaDelphiApp\src\Util\ProvaDelphiApp.Utilitarios.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/13 22:33:25.000.967,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/13 22:33:58.000.624,C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\src\Controller\ProvaDelphiApp.Controller.Interfaces.pas</Transaction>
+    <Transaction>2022/07/13 22:35:30.000.747,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/13 22:35:46.000.421,C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\src\Controller\ProvaDelphiApp.Controller.Tarefa1.pas</Transaction>
+    <Transaction>2022/07/13 23:14:06.000.481,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/13 23:14:28.000.625,C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\src\Model\ProvaDelphiApp.Model.Interfaces.pas</Transaction>
+    <Transaction>2022/07/13 23:14:35.000.751,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/13 23:14:48.000.753,C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\src\Model\ProvaDelphiApp.Model.Tarefa1.pas</Transaction>
+    <Transaction>2022/07/14 20:43:27.000.663,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/14 20:44:34.000.197,C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\src\Thread\ProvaDelphiApp.Thread.Progresso.pas</Transaction>
+    <Transaction>2022/07/14 20:49:50.000.108,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/14 20:50:01.000.362,C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\src\Controller\ProvaDelphiApp.Controller.Tarefa2.pas</Transaction>
+    <Transaction>2022/07/14 21:39:50.000.500,C:\workspace\ProvaDelphi\ProvaDelphiApp\src\Controller\ProvaDelphiApp.Controller.Tarefa2.pas=</Transaction>
+    <Transaction>2022/07/14 22:08:05.000.378,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/14 22:09:35.000.639,C:\workspace\ProvaDelphi\ProvaDelphiApp\src\Controller\ProvaDelphiApp.Controller.Tarefa3.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/14 22:22:19.000.006,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/14 22:22:31.000.781,C:\workspace\ProvaDelphi\ProvaDelphiApp\src\Model\ProvaDelphiApp.Model.Tarefa3.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/07/14 23:33:39.000.551,C:\workspace\ProvaDelphi\ProvaDelphiApp\src\View\ProvaDelphiApp.View.Testes.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
