@@ -2,13 +2,13 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2022/07/15 09:25:55.000.491,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Test\Unit1.pas</Transaction>
-    <Transaction>2022/07/15 09:27:21.000.555,=C:\workspace\ProvaDelphi\ProvaDelphiApp\src\Controller\ProvaDelphiApp.Controller.Tarefa1.pas</Transaction>
     <Transaction>2022/07/15 09:27:21.000.255,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Test\Test.Controller.pas</Transaction>
-    <Transaction>2022/07/15 09:27:35.000.157,C:\workspace\ProvaDelphi\ProvaDelphiApp\Test\Test.Controller.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\Test\Test.Controller.Tareaf1.pas</Transaction>
-    <Transaction>2022/07/15 09:30:41.000.099,C:\workspace\ProvaDelphi\ProvaDelphiApp\Test\Test.Controller.Tarefa1.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\Test\Test.Controller.Tareaf1.pas</Transaction>
+    <Transaction>2022/07/15 09:27:21.000.555,=C:\workspace\ProvaDelphi\ProvaDelphiApp\src\Controller\ProvaDelphiApp.Controller.Tarefa1.pas</Transaction>
+    <Transaction>2022/07/15 09:27:35.000.157,C:\workspace\ProvaDelphi\ProvaDelphiApp\Test\Test.Controller.Tareaf1.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\Test\Test.Controller.pas</Transaction>
+    <Transaction>2022/07/15 09:30:41.000.099,C:\workspace\ProvaDelphi\ProvaDelphiApp\Test\Test.Controller.Tareaf1.pas=C:\workspace\ProvaDelphi\ProvaDelphiApp\Test\Test.Controller.Tarefa1.pas</Transaction>
     <Transaction>2022/07/15 10:57:37.000.448,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Test\Test.Controller.Tarefa3.pas</Transaction>
     <Transaction>2022/07/15 10:57:37.000.586,=C:\workspace\ProvaDelphi\ProvaDelphiApp\src\Controller\ProvaDelphiApp.Controller.Tarefa3.pas</Transaction>
     <Transaction>2022/07/15 11:39:41.000.230,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Test\Test.Model.Tarefa1.pas</Transaction>
-    <Transaction>2022/07/15 11:44:34.084,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Test\Test.Model.Tarefa3.pas</Transaction>
+    <Transaction>2022/07/15 11:44:34.000.084,=C:\workspace\ProvaDelphi\ProvaDelphiApp\Test\Test.Model.Tarefa3.pas</Transaction>
   </Transactions>
 </BorlandProject>
